@@ -6,6 +6,11 @@
 2. Explore `border`, `box-shadow`, `background`, and the `linear-gradient()` CSS function
 
 
+
+
+
+
+
 ## Introduction
 
 As you have already noticed (as an non-programming end-user of the internet)
